@@ -1,4 +1,5 @@
 import streamlit as st
+import sympy as sp  # For evaluating expressions
 import requests  # For currency conversion API
 
 # Set page config with title and wide layout
